@@ -8,6 +8,20 @@ body{
   padding-left: 20vw;
   padding-right: 20vw;
 }
+#projects{
+  max-height: 80vh;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+}
+.sectionDiv{
+  height: 60vh;
+  width: 100%;
+}
+
+.space-background{
+  max-height: 80vh;
+  width: 80%;
+}
 .grid1 {
 
   display: grid;
